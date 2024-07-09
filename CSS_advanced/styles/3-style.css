@@ -9,6 +9,7 @@ html {
     --color-dark-grey: #353535;
     --text-color: color-black;
 }
+
 body {
     color: text-color;
 }
