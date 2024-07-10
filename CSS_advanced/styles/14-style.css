@@ -11,6 +11,10 @@
 html {
   line-height: 1.15; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
+  scroll-behavior: smooth;
+  font-size: 62.5%;
+  line-height: 1.15; /* 1 */
+  -webkit-text-size-adjust: 100%; /* 2 */
 }
 
 /* Sections
@@ -347,12 +351,6 @@ template {
 [hidden] {
   display: none;
 }
-html {
-    scroll-behavior: smooth;
-    font-size: 62.5%;
-    line-height: 1.15; /* 1 */
-    -webkit-text-size-adjust: 100%; /* 2 */
-  }
 
 :root {
     --color-primary: #d73953;
