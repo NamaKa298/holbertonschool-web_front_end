@@ -550,7 +550,7 @@ ul.row {
 
 .card-services a {
     display: block;
-    padding: calc(2 * var(--root-element-size)); /* Assuming --root-element-size is defined elsewhere in your CSS */
+    padding: 2rem;
     background-color: var(--color-light-grey);
 }
 
