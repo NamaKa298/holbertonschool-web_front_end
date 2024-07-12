@@ -354,7 +354,7 @@ ul.row {
     z-index: 1;
 }
 
-.card-work:hover .cart-inner{
+.card-work:hover .cart-inner {
     background-color: rgba(0, 0, 0, 0.7);
 }
 
